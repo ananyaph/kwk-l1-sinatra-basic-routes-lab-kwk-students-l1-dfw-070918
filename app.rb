@@ -9,4 +9,13 @@ end
 get '/name' do
   "Ananya Phadke"
 end
+
+get '/hometown' do
+  "My hometown is Frisco"
+end
+
+get '/favorite-song' do
+  "My favorite is 'My Favorite Things' "
+end
+
 end
